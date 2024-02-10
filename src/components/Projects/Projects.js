@@ -26,9 +26,9 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Kimen"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              description="Location based Multimedia Message broadcasting social chat app built using react-native, Firebase, Realm(mongodb) including Passwordless authentication, translation and text to speech using OpenAI chatGPT-4"
+              ghLink="https://github.com/taran234/Kimen-develpment"
+              demoLink="https://play.google.com/store/apps/details?id=com.kimen&pli=1"
             />
           </Col>
 
@@ -36,10 +36,10 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="Portfolio Website"
+              description="My personal Portfolio/blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              ghLink="https://github.com/taran234/portfolio-0"
+              demoLink="https://taranjeetsingh.vercel.app/"
             />
           </Col>
 
@@ -47,10 +47,10 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              title="Online product store website"
+              description="created a SAAS template websites using React / Next.js and Tailwind CSS with STRIPE integration to sell digital goods/services to coustomers"
+              // ghLink="https://github.com/soumyajit4419/Editor.io"
+              // demoLink="https://editor.soumya-jit.tech/"              
             />
           </Col>
 
@@ -60,8 +60,8 @@ function Projects() {
               isBlog={false}
               title="Plant AI"
               description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              // ghLink="https://github.com/soumyajit4419/Plant_AI"
+              // demoLink="https://plant49-ai.herokuapp.com/"
             />
           </Col>
 
@@ -69,9 +69,9 @@ function Projects() {
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              title="AI Coustomer Service assistant component"
+              description="Integrate an AI chatbot into your website for efficient handling of repetitive inquiries. Streamline customer support to save time and resources, allowing businesses to prioritize sales and customer connections. Boost conversions and revenue with the AI Customer Service Assistant improving the shopping experience tirelessly."
+              // ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
@@ -80,10 +80,9 @@ function Projects() {
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+              title="Automated youtube channel "
+              description="automated youtube short uploads from the instagram pages that you follow straight to youtube using python and instader liberary"
+              // ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
           </Col>
