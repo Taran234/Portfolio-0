@@ -1,6 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import homeLogo from "../../Assets/home-main.svg";
+import snow from "../../Assets/snow_floor-removebg.png";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
@@ -37,9 +38,12 @@ function Home() {
                 className="img-fluid"
                 style={{ maxHeight: "450px" }}
               />
+              
             </Col>
           </Row>
         </Container>
+        {/* add acumulated snow here */}
+        
       </Container>
       <Home2 />
     </section>
