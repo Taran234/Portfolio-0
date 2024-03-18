@@ -11,12 +11,12 @@ import Snow from "./Snow";
 
 
 function Footer() {
-  
+
   return (
     <>
-      <Snow/>
+      {/* <Snow/> */}
       <Container fluid className="footer">
-      
+
         <Row>
           <Col md="4" className="footer-copywright">
             <h3>Designed and Developed by Taranjeet Singh</h3>

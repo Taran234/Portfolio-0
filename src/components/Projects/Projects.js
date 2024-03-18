@@ -25,9 +25,9 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Kimen"
+              title="Keycom"
               description="Location based Multimedia Message broadcasting social chat app built using react-native, Firebase, Realm(mongodb) including Passwordless authentication, translation and text to speech using OpenAI chatGPT-4"
-              ghLink="https://github.com/taran234/Kimen-develpment"
+              // ghLink="https://github.com/taran234/Kimen-develpment"
               demoLink="https://play.google.com/store/apps/details?id=com.kimen&pli=1"
             />
           </Col>
@@ -49,8 +49,8 @@ function Projects() {
               isBlog={false}
               title="Online product store website"
               description="created a SAAS template websites using React / Next.js and Tailwind CSS with STRIPE integration to sell digital goods/services to coustomers"
-              // ghLink="https://github.com/soumyajit4419/Editor.io"
-              // demoLink="https://editor.soumya-jit.tech/"              
+              //ghLink="https://github.com/Taran234/saas-template4"
+              demoLink="https://saas-template4.vercel.app/"
             />
           </Col>
 
@@ -60,8 +60,8 @@ function Projects() {
               isBlog={false}
               title="Plant AI"
               description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              // ghLink="https://github.com/soumyajit4419/Plant_AI"
-              // demoLink="https://plant49-ai.herokuapp.com/"
+            // ghLink="https://github.com/soumyajit4419/Plant_AI"
+            // demoLink="https://plant49-ai.herokuapp.com/"
             />
           </Col>
 
@@ -71,8 +71,8 @@ function Projects() {
               isBlog={false}
               title="AI Coustomer Service assistant component"
               description="Integrate an AI chatbot into your website for efficient handling of repetitive inquiries. Streamline customer support to save time and resources, allowing businesses to prioritize sales and customer connections. Boost conversions and revenue with the AI Customer Service Assistant improving the shopping experience tirelessly."
-              // ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+            // ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+            // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
 
@@ -82,8 +82,8 @@ function Projects() {
               isBlog={false}
               title="Automated youtube channel "
               description="automated youtube short uploads from the instagram pages that you follow straight to youtube using python and instader liberary"
-              // ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+            // ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+            // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
           </Col>
         </Row>
